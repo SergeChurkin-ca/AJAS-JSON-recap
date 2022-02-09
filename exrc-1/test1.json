@@ -1,0 +1,16 @@
+{
+    "singers": {
+        "singer-1": {
+            "first": "bobey",
+            "last": "marley",
+            "woman": "no",
+            "cry": "no"
+        },
+        "singer-2": {
+            "first": "john",
+            "last": "mclaughlin",
+            "woman": "yes",
+            "cry": "yes"
+        }
+    }
+}
